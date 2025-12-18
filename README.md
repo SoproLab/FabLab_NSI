@@ -6,7 +6,7 @@ Les éléments embarqués sur la carte permettent d'élaborer des scénari péda
 
 Contrairement à d'autres cartes, tous les éléments sont précâblés et directement accessibles. Des modules d'extensions sont possibles grace aux différents connecteurs.
 
-![](Presentation_Activités/SoproLab_NSI_V3.jpg)
+![](SoproLab_NSI_V3.jpg)
 
 Leds Rouge / Jaune / Verte : indicateurs de seuils
 
